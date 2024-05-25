@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Full Stack Website Development<br>and completed my Front end / Back end modules.<br>Data base is in progress.<br>and now creating customized templates using front end languages and frameworks
+I'm currently learning Full Stack Website Development<br>and completed my Front end / Back end modules.<br>Data base is in progress.<br>and now creating customized templates using front end languages and frameworks.
 
 
 ## 🌐 Socials:
