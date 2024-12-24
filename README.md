@@ -1,7 +1,7 @@
 # 💫 About Me:
 📚 Full Stack Website Developver<br>and completed my Front-end / Back-end modules.<br>🔍 **Database in progress**.<br>💻 now creates customized templates using front-end languages and frameworks.
 <br/>
-📧 How to reach: shahroza750@gmail.com
+📧 How to reach: shahroz12330@gmail.com
 <br/>
 🔗 **My Portfolio link**: https://shahroz-portfolio-12.netlify.app/
 
